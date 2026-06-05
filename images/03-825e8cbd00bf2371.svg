@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f7f9f6"/>
+  <rect x="58" y="50" width="1084" height="575" rx="30" fill="#ffffff" stroke="#d9e2d5" stroke-width="3"/>
+  <text x="600" y="116" text-anchor="middle" font-size="44" font-weight="700" fill="#263629" font-family="Microsoft YaHei, SimHei, sans-serif">把踩坑写进技能</text>
+  <text x="600" y="156" text-anchor="middle" font-size="22" fill="#5e6d5e" font-family="Microsoft YaHei, SimHei, sans-serif">解决一次问题，还要留下下次能复用的动作</text>
+  <g font-family="Microsoft YaHei, SimHei, sans-serif">
+    <rect x="91" y="252" width="178" height="160" rx="20" fill="#fff5ed" stroke="#e7b28a" stroke-width="2"/>
+    <text x="180" y="307" text-anchor="middle" font-size="26" font-weight="700" fill="#8a4a18">发现异常</text>
+    <text x="180" y="358" text-anchor="middle" font-size="21" fill="#66503d">报错看似合理</text>
+    <rect x="304" y="252" width="178" height="160" rx="20" fill="#f2f7ff" stroke="#9fc2ea" stroke-width="2"/>
+    <text x="393" y="307" text-anchor="middle" font-size="26" font-weight="700" fill="#1f5f98">补充证据</text>
+    <text x="393" y="358" text-anchor="middle" font-size="21" fill="#3b5c78">前后结果对照</text>
+    <rect x="517" y="252" width="178" height="160" rx="20" fill="#f1fbf5" stroke="#94d5aa" stroke-width="2"/>
+    <text x="606" y="307" text-anchor="middle" font-size="26" font-weight="700" fill="#217247">提权复验</text>
+    <text x="606" y="358" text-anchor="middle" font-size="21" fill="#385f45">确认真实原因</text>
+    <rect x="730" y="252" width="178" height="160" rx="20" fill="#fbf7ee" stroke="#d6c083" stroke-width="2"/>
+    <text x="819" y="307" text-anchor="middle" font-size="26" font-weight="700" fill="#795f16">修复流程</text>
+    <text x="819" y="358" text-anchor="middle" font-size="21" fill="#62552d">稳定执行路径</text>
+    <rect x="943" y="252" width="178" height="160" rx="20" fill="#f5f2fb" stroke="#bda9dc" stroke-width="2"/>
+    <text x="1032" y="307" text-anchor="middle" font-size="26" font-weight="700" fill="#5c4386">写入技能</text>
+    <text x="1032" y="358" text-anchor="middle" font-size="21" fill="#57476d">下次默认动作</text>
+  </g>
+  <g stroke="#9aa9a0" stroke-width="5" stroke-linecap="round">
+    <path d="M275 332 H298"/>
+    <path d="M298 332 L286 320 M298 332 L286 344"/>
+    <path d="M488 332 H511"/>
+    <path d="M511 332 L499 320 M511 332 L499 344"/>
+    <path d="M701 332 H724"/>
+    <path d="M724 332 L712 320 M724 332 L712 344"/>
+    <path d="M914 332 H937"/>
+    <path d="M937 332 L925 320 M937 332 L925 344"/>
+  </g>
+  <rect x="252" y="494" width="696" height="62" rx="31" fill="#263629"/>
+  <text x="600" y="534" text-anchor="middle" font-size="25" fill="#ffffff" font-family="Microsoft YaHei, SimHei, sans-serif">不要只解决问题，要留下解决问题的路径</text>
+</svg>
