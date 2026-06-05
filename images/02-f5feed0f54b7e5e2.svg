@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#fbfaf7"/>
+  <rect x="58" y="52" width="1084" height="571" rx="30" fill="#ffffff" stroke="#e4dccd" stroke-width="3"/>
+  <text x="600" y="116" text-anchor="middle" font-size="44" font-weight="700" fill="#2e2d29" font-family="Microsoft YaHei, SimHei, sans-serif">凭据没丢，是看不见</text>
+  <text x="600" y="156" text-anchor="middle" font-size="22" fill="#6c655b" font-family="Microsoft YaHei, SimHei, sans-serif">同一个工具，不同执行环境，读到的结果可能完全不同</text>
+  <rect x="112" y="224" width="300" height="255" rx="22" fill="#fff7f1" stroke="#e7b48c" stroke-width="2"/>
+  <text x="262" y="277" text-anchor="middle" font-size="30" font-weight="700" fill="#8a4b19" font-family="Microsoft YaHei, SimHei, sans-serif">普通沙箱</text>
+  <text x="262" y="336" text-anchor="middle" font-size="24" fill="#6a4a32" font-family="Microsoft YaHei, SimHei, sans-serif">读不到 keychain</text>
+  <text x="262" y="389" text-anchor="middle" font-size="24" fill="#6a4a32" font-family="Microsoft YaHei, SimHei, sans-serif">误判为凭据失效</text>
+  <text x="262" y="446" text-anchor="middle" font-size="48" font-weight="700" fill="#c65d3b" font-family="Microsoft YaHei, SimHei, sans-serif">×</text>
+  <rect x="488" y="224" width="224" height="255" rx="22" fill="#f4f6f8" stroke="#c5ced8" stroke-width="2"/>
+  <text x="600" y="277" text-anchor="middle" font-size="30" font-weight="700" fill="#405367" font-family="Microsoft YaHei, SimHei, sans-serif">系统凭据仓库</text>
+  <rect x="542" y="319" width="116" height="92" rx="14" fill="#dbe6f0" stroke="#9fb3c6" stroke-width="2"/>
+  <path d="M565 319 v-28 c0-28 70-28 70 0 v28" fill="none" stroke="#6d879e" stroke-width="8" stroke-linecap="round"/>
+  <text x="600" y="452" text-anchor="middle" font-size="24" fill="#52687a" font-family="Microsoft YaHei, SimHei, sans-serif">密钥在这里</text>
+  <rect x="788" y="224" width="300" height="255" rx="22" fill="#f0fbf5" stroke="#92d4aa" stroke-width="2"/>
+  <text x="938" y="277" text-anchor="middle" font-size="30" font-weight="700" fill="#1f7145" font-family="Microsoft YaHei, SimHei, sans-serif">提权执行</text>
+  <text x="938" y="336" text-anchor="middle" font-size="24" fill="#335b43" font-family="Microsoft YaHei, SimHei, sans-serif">可以读取 keyring</text>
+  <text x="938" y="389" text-anchor="middle" font-size="24" fill="#335b43" font-family="Microsoft YaHei, SimHei, sans-serif">验证凭据正常</text>
+  <text x="938" y="446" text-anchor="middle" font-size="48" font-weight="700" fill="#2a9d59" font-family="Microsoft YaHei, SimHei, sans-serif">✓</text>
+  <path d="M430 352 H468" stroke="#a79a8d" stroke-width="5" stroke-dasharray="10 10"/>
+  <path d="M732 352 H770" stroke="#7fb694" stroke-width="6" stroke-linecap="round"/>
+  <path d="M770 352 L754 336 M770 352 L754 368" stroke="#7fb694" stroke-width="6" stroke-linecap="round"/>
+  <text x="600" y="554" text-anchor="middle" font-size="26" fill="#3b3832" font-family="Microsoft YaHei, SimHei, sans-serif">先确认“能不能看到”，再判断“有没有丢”</text>
+</svg>
