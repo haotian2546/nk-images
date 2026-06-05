@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f7fbff"/>
+  <rect x="56" y="48" width="1088" height="579" rx="28" fill="#ffffff" stroke="#d8e7f5" stroke-width="3"/>
+  <text x="600" y="116" text-anchor="middle" font-size="44" font-weight="700" fill="#16324f" font-family="Microsoft YaHei, SimHei, sans-serif">报错不是结论</text>
+  <text x="600" y="156" text-anchor="middle" font-size="22" fill="#5a6f82" font-family="Microsoft YaHei, SimHei, sans-serif">先把前后证据摆出来，再让 AI 重新判断</text>
+  <rect x="104" y="226" width="270" height="230" rx="22" fill="#fff4f0" stroke="#f0b59f" stroke-width="2"/>
+  <text x="239" y="276" text-anchor="middle" font-size="30" font-weight="700" fill="#9b3c22" font-family="Microsoft YaHei, SimHei, sans-serif">当前报错</text>
+  <text x="239" y="330" text-anchor="middle" font-size="24" fill="#6d4b3f" font-family="Microsoft YaHei, SimHei, sans-serif">凭据异常</text>
+  <text x="239" y="374" text-anchor="middle" font-size="24" fill="#6d4b3f" font-family="Microsoft YaHei, SimHei, sans-serif">token 失效</text>
+  <text x="239" y="418" text-anchor="middle" font-size="24" fill="#6d4b3f" font-family="Microsoft YaHei, SimHei, sans-serif">配置缺失</text>
+  <rect x="465" y="226" width="270" height="230" rx="22" fill="#f3f8ff" stroke="#a8c8ee" stroke-width="2"/>
+  <text x="600" y="276" text-anchor="middle" font-size="30" font-weight="700" fill="#1c5d99" font-family="Microsoft YaHei, SimHei, sans-serif">补充证据</text>
+  <text x="600" y="330" text-anchor="middle" font-size="24" fill="#345b7d" font-family="Microsoft YaHei, SimHei, sans-serif">前天能跑</text>
+  <text x="600" y="374" text-anchor="middle" font-size="24" fill="#345b7d" font-family="Microsoft YaHei, SimHei, sans-serif">昨天写入成功</text>
+  <text x="600" y="418" text-anchor="middle" font-size="24" fill="#345b7d" font-family="Microsoft YaHei, SimHei, sans-serif">今天表现异常</text>
+  <rect x="826" y="226" width="270" height="230" rx="22" fill="#f0fbf5" stroke="#9bd9b3" stroke-width="2"/>
+  <text x="961" y="276" text-anchor="middle" font-size="30" font-weight="700" fill="#207344" font-family="Microsoft YaHei, SimHei, sans-serif">重新判断</text>
+  <text x="961" y="330" text-anchor="middle" font-size="24" fill="#345f46" font-family="Microsoft YaHei, SimHei, sans-serif">不是凭据丢了</text>
+  <text x="961" y="374" text-anchor="middle" font-size="24" fill="#345f46" font-family="Microsoft YaHei, SimHei, sans-serif">而是环境不同</text>
+  <text x="961" y="418" text-anchor="middle" font-size="24" fill="#345f46" font-family="Microsoft YaHei, SimHei, sans-serif">需要提权复验</text>
+  <path d="M394 341 H444" stroke="#7b9fc2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M444 341 L428 325 M444 341 L428 357" stroke="#7b9fc2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M755 341 H805" stroke="#7b9fc2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M805 341 L789 325 M805 341 L789 357" stroke="#7b9fc2" stroke-width="6" stroke-linecap="round"/>
+  <text x="600" y="552" text-anchor="middle" font-size="26" fill="#24435c" font-family="Microsoft YaHei, SimHei, sans-serif">不要让当前报错替你下结论</text>
+</svg>
